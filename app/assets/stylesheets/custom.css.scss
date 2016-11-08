@@ -102,3 +102,11 @@ footer ul li {
   float: left;
   margin-left: 10px;
 }
+
+.goddes {
+  text-align: center;
+  color: #996;
+  &:hover {
+    color: #730E15;
+  }
+}
